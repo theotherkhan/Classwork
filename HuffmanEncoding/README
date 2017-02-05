@@ -1,0 +1,8 @@
+These are the files for the Huffman Encoding Lab. 
+
+This lab is split up into two parts. In part 1, an input file is given. The frequencies of each letter are stored into a binary 
+heap. A tree of prefix codes is built for each character depending on its frequency, with each path in the prefix code tree 
+representing a single letter to be encoded. The source file is then read, and each characters prefix code is written to the output file. 
+
+In part 2, an encoded file is given. The program first recreates the Huffman tree and then decodes the encoded input character by 
+character back to its original form.
