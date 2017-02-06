@@ -1,4 +1,7 @@
 These are the files for the Huffman Encoding Lab. 
+More information on this lab can be found at:https://aaronbloomfield.github.io/pdr/labs/lab10/index.html
+
+Summary:
 
 This lab is split up into two parts. In part 1, an input file is given. The frequencies of each letter are stored into a binary 
 heap. A tree of prefix codes is built for each character depending on its frequency, with each path in the prefix code tree 
