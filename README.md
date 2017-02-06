@@ -1,2 +1,2 @@
 # Classwork
-Classwork and labs
+Classwork programs and labs
